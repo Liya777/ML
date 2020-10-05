@@ -60,6 +60,3 @@ print("recall",recall)
 print("F1= ",F1)
 prediction=svclassifier.predict(X_test)
 print("confusion matrix:\n",metrics.confusion_matrix(prediction,y_test))
-
-from sklearn.metrics import auc
-from sklearn.metrics import roc_curve
