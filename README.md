@@ -1,4 +1,4 @@
-SVM:
+# Support Vector Machine
 Support vector machine is used to solve supervised machine learning problems, both classification, and regression. The classes can be separated by a line known as the 
 line(2D)/hyperplane(3D). The criteria for positioning the hyperplane is that on the creation of a hyperplane, two margins are also created such that they lie on either 
 side of hyperplane, linearly separating the two classes and also pass through the nearest point in the respective class. The dotted line in the figure represents the margin. 
